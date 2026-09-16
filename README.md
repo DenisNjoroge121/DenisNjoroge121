@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Denis Njoroge
 
 **Email:** denisnjoroge121@gmail.com  
-**Portfolio:** [Novara Portfolio](https://github.com/DenisNjoroge121/Novara-portfolio)
+**Portfolio Repository:** [Denis Njoroge Portfolio](https://github.com/DenisNjoroge121/Denis-Njoroge-Portfolio)  
+**Live Portfolio:** [View My Portfolio](https://denis-njoroge-portfolio.vercel.app)
 
 ---
 
