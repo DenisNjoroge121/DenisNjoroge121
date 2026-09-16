@@ -1,5 +1,10 @@
 # Hi there 👋 I'm Denis Njoroge
 
+**Email:** denisnjoroge121@gmail.com  
+**Portfolio:** [Novara Portfolio](https://github.com/DenisNjoroge121/Novara-portfolio)
+
+---
+
 ## About Me
 I'm a passionate full-stack developer with a diverse portfolio of projects spanning web development, logistics management, fintech, and educational technology. I love building scalable solutions and exploring new technologies to solve real-world problems.
 
